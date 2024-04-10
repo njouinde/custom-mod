@@ -11,10 +11,10 @@ I'm just a person who shares this mod that had disappeared from players' radars.
 
 ## How to use the mod
 - [Download the mod here](https://github.com/rundredoffi/custom-mod/releases/latest)
-- Put in : C:\Users\YOUR_NAME\Documents\Euro Truck Simulator 2\mod
+- Put in : `C:\Users\YOUR_NAME\Documents\Euro Truck Simulator 2\mod`
 - Launch the game
 - Go in the mod manager
 - Activate the mod
 - Start your game !
 
-**The mod is going to disable ur motor sound**
+**The mod is going to disable your engine sound**
